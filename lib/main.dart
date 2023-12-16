@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hw_4/profil_page.dart';
+import 'profil_page.dart';
+import 'profil_page2.dart';
 
 void main(){
   runApp(const App());
